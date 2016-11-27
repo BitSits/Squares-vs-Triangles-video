@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Squares Vs Triangles
 
 [ ![](Screen Shot 2016-11-28 at 1.05.49 AM.png) ](https://youtu.be/ZgdzLgq55us)
