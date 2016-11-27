@@ -1,6 +1,6 @@
 # Squares Vs Triangles
 
-[ ![](Screen Shot 2016-11-28 at 12.55.37 AM.png) ](https://youtu.be/ZgdzLgq55us)
+[ ![](Screen Shot 2016-11-28 at 1.05.49 AM.png) ](https://youtu.be/ZgdzLgq55us)
 
 # WIP Screenshots
 
