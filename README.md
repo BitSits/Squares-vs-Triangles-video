@@ -1,16 +1,8 @@
 # Squares Vs Triangles
 
-lfs enabled
+[ ![](https://i.ytimg.com/vi/ZgdzLgq55us/hqdefault.jpg) ](https://youtu.be/ZgdzLgq55us)
 
-## .gitignore
-```
-*.DS_Store
-```
-
-## .gitattributes
-```
-*.zip
-```
+# Screenshots
 
 ![](11-02-2011_1320 Untitled1.png)
 
