@@ -1,11 +1,15 @@
-[ ![BitSits Games](8598436.png) ](http://bitsits.com)
+Squares Vs Triangles
+===
+[![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
 
-# Squares Vs Triangles
+[YouTube][video] [via GIPHY](https://giphy.com/gifs/KFW3qGwTzhHBakLC37)
 
-[ ![](Screen%20Shot%202016-11-28%20at%201.05.49%20AM.png) ](https://youtu.be/ZgdzLgq55us)
+[video]: https://youtu.be/ZgdzLgq55us
 
-# WIP Screenshots
-
+WIP Screenshots
+---
 ![](11-02-2011_1320%20Untitled1.png)
-
 ![](11-02-2011_1321%20Untitled2.png)
+
+[Blogger](https://bitsits.blogspot.com/2011/02/squares-vs-triangles-trailer.html)
+[Tumblr](https://bitsits.tumblr.com/post/96208860010/squares-vs-triangles-trailer-check-out-the-new)
