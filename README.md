@@ -1,6 +1,6 @@
 Squares Vs Triangles
 ===
-[![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
+[![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
 
 [YouTube][video] [via GIPHY](https://giphy.com/gifs/KFW3qGwTzhHBakLC37)
 
